@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className='freecodecamp-logo-contenedor'>
-        <img src={freeCodeCampLogo} className='freecodecamp-logo' alt='Logo'/>
+        <img src={freeCodeCampLogo} className='freecodecamp-logo' alt='Logo' />
       </div>
     </div>
   );
