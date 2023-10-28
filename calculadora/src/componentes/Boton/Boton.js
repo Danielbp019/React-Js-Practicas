@@ -1,5 +1,5 @@
 import React from 'react';
-import '../componentes/Boton.css';
+import '../Boton/Boton.css';
 
 function Boton(props) {
 
